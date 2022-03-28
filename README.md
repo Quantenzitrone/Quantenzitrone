@@ -6,4 +6,4 @@
 
     ![Quantenzitrone's GitHub stats](https://github-readme-stats.vercel.app/api?username=quantenzitrone&include_all_commits=true&show_icons=true&theme=midnight-purple&title_color=3C50FF&icon_color=3C50FF)
 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quantenzitrone&layout=compact&include_all_commits=true&show_icons=true&theme=midnight-purple&title_color=3C50FF&icon_color=3C50FF)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quantenzitrone&layout=compact&include_all_commits=true&show_icons=true&theme=midnight-purple&title_color=3C50FF&icon_color=3C50FF&exclude_repo=dotconfig)
